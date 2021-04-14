@@ -1,1 +1,1 @@
-# Flight-Price-Prediction-ML
+# Flight-Price-Prediction
